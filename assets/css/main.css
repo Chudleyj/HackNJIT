@@ -8,7 +8,7 @@
  */
 
 body {
-  background-color: #ffb600;
+  background-color: #f2f2f2;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-size: 16px;
@@ -35,7 +35,7 @@ h3 {
 }
 
 h4 {
-	color: #95a5a6;
+	color: #ddca6a;
 	font-weight: 400;
 	font-size: 20px;
 }
