@@ -54,7 +54,7 @@
 					<h1>Let Us Remind You!<br/><br/>
 					</h1>
 					<form class="form-inline" role="form">
-					  <button type="submit" class="btn btn-warning btn-lg"><a href="form1.php">Continue</a></button>
+					  <button type="submit" class="btn btn-warning btn-lg"><a href="Form.html">Continue</a></button>
 					</form>
 				</div><!-- /col-lg-6 -->
 				<div class="col-lg-6">
